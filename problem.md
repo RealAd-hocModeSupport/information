@@ -1,4 +1,4 @@
-# What is wrong with Ad-hoc Mode support at the moment?
+# What is wrong with ad-hoc mode support at the moment?
 
 
 ## Alternatives? Not really.
