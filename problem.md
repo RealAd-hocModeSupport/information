@@ -6,12 +6,15 @@ The proper implementation of ad-hoc is mostly dependent on device manufacturers,
 
 ## End-devices (smartphones, laptops, etc)
 
+As far as we know, ad-hoc mode does not exist in iOS and is also not available via the API on Android.
+
 Are there any alternatives? Not really. Currently there are a few libraries for smartphones that implement device-to-device communication. However, they are either extremely faulty, limited or require infrastructure to work. Find more details in the sections below.
 
 ### Bluetooth
 
 * Needs communication w/o pairing
 * Reportedly some Android implementations are quite buggy, workarounds sometimes exist
+* No broadcast supported, only unicast available.
 
 ### WiFi Direct
 
@@ -22,17 +25,11 @@ Are there any alternatives? Not really. Currently there are a few libraries for 
 
 Google Nearby is a fairly recent Android API that allows nearby phones to exchange data among them. Quite absurdly, this mechanism requires an Internet access. In other words: it is not infrastructureless, hence it cannot replace ad-hoc mode.
 
-### Ad-Hoc Mode
-
-* does not exist in iOS
-* Not available via the API on Android
-
-
 ### 802.11s
 
 * No support on mobile phones so far
 
 ## Conclusion
 
-* When only using mobile phones, Bluetooth is the only option
+* When only using mobile phones, Bluetooth is the only option - but it does not support broadcasting, which can be inefficient
 * Possibly use an external device which can be an Access Point and mesh with other devices simultaneously
