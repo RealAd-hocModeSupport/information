@@ -10,4 +10,4 @@ We are just starting this campaign at 32C3 so join us at our assembly. We are se
 
 ## Meet us on IRC
 
-We're in the channel *#rams* both on freenode and hackint.
+We're in the channel **#rams** both on freenode and hackint.
