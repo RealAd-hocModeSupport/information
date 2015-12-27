@@ -4,10 +4,11 @@ This repository contains all the infos/thoughts/problems/etc we have been gather
 
 The goal is to organize a campaign to push manufacturers, developers and related entities to support the full IEEE 802.11 standard - which includes ad-hoc mode. To begin with, we will try to document thoroughly the current problems hindering ad-hoc mode adoption, as well as why we need it.
 
-Here is an overview of the documents we are compiling at the moment:
-* [explanation of IEEE 802.11 ad-hoc mode](what-is-adhoc.md)
-* [why ad-hoc mode adoption is not widespread](problem.md)
-* [why is ad-hoc mode important? - i.e. what can it be used for](usage-scenarios.md)
+Here is an overview of the documents we are compiling at the moment, which are best read in this order:
+1. [explanation of IEEE 802.11 ad-hoc mode](what-is-adhoc.md)
+2. [why is ad-hoc mode important? - i.e. what can it be used for](usage-scenarios.md)
+3. [why ad-hoc mode adoption is not widespread](problem.md)
+4. [what we are planning to do fix it](fixing-the-problem.md)
 
 ## Meet us at 32C3
 
