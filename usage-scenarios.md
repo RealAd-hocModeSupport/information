@@ -8,3 +8,5 @@ Several projects use ad-hoc mode successfully:
 * [VillageTelco](http://villagetelco.org/) - a project to easily deploy communication networks in areas lacking infrastructure.
 
 Other projects that use infrastructureless communication between end-user devices usually resort to Bluetooth or WiFi Direct. However, the implementation of these technologies is often faulty and frustrating to use, apart from being limited in functionality. More details on these issues can be found [here](problem.md).
+
+There are attempts to build smartphone applications ([MoP2MoP](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwib1puAwvzJAhVCeg8KHYaADDYQFggcMAA&url=https%3A%2F%2Fwww.informatik.tu-darmstadt.de%2Ffileadmin%2Fuser_upload%2FGroup_TRUST%2FPubsPDF%2Ffc14-paper99-final_draft_v3.pdf&usg=AFQjCNG3L1DoOsssPrAWQGFobZAaTksucQ), [Timberdoodle](https://github.com/timberdoodle/TimberdoodleApp), [Briar Project](https://briarproject.org/)) for anonymous communication that would benefit greatly from ad-hoc mode, as the limitations of Bluetooth and WiFi Direct significantly decrease performance and usability.
