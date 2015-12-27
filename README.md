@@ -6,7 +6,7 @@ The goal is to organize a campaign to push manufacturers, developers and related
 
 Here is an overview of the documents we are compiling at the moment:
 * [explanation of IEEE 802.11 ad-hoc mode](what-is-adhoc.md)
-* [why ad_hoc mode adoption is not widespread](problem.md)
+* [why ad-hoc mode adoption is not widespread](problem.md)
 * [why is ad-hoc mode important? - i.e. what can it be used for](usage-scenarios.md)
 
 ## Meet us at 32C3
